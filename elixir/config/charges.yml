@@ -1,0 +1,52 @@
+:charges:
+  - :name: Spotify
+    :date: 1/1/2018
+    :amount: 9.99
+  - :name: NextCapital Premium
+    :date: 1/1/2018
+    :amount: 15.00
+  - :name: One Time Willy
+    :date: 1/1/2018
+    :amount: 100.00
+  - :name: Spotify
+    :date: 2/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 3/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 4/1/2018
+    :amount: 9.99
+  - :name: NextCapital Premium
+    :date: 4/1/2018
+    :amount: 15.00
+  - :name: Spotify
+    :date: 5/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 6/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 7/1/2018
+    :amount: 9.99
+  - :name: NextCapital Premium
+    :date: 7/1/2018
+    :amount: 15.00
+  - :name: Spotify
+    :date: 8/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 9/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 10/1/2018
+    :amount: 9.99
+  - :name: NextCapital Premium
+    :date: 10/1/2018
+    :amount: 15.00
+  - :name: Spotify
+    :date: 11/1/2018
+    :amount: 9.99
+  - :name: Spotify
+    :date: 12/1/2018
+    :amount: 9.99
